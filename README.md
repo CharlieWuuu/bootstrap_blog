@@ -1,4 +1,6 @@
-Bootstrap排版練習，仿專題文章的風格，以「介紹前端框架」為主題，網址見此
+Bootstrap排版練習，仿專題文章的風格，以「介紹前端框架」為主題
+
+網址見此：https://charliewuuu.github.io/bootstrap_blog/
 
 內容改寫自多篇網路文章
 
